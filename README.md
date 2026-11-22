@@ -1,6 +1,10 @@
 
 # Customer Engagement and Product Utilisation Analytics for Retention Strategy
 
+## 🚀 Live Dashboard
+
+[Open the Interactive Dashboard](https://ayushisingh0604-customer-engagement-retention-analyt-app-lmsugi.streamlit.app/)
+
 ## Project Overview
 This project focuses on analysing customer engagement, product utilisation, customer relationship indicators, and churn patterns within the banking sector. The objective is to identify customer segments associated with higher attrition and develop data-driven recommendations to support customer retention strategies.
 
